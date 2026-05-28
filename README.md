@@ -101,4 +101,4 @@ AI Security, AppSec, Product Security, Web3 Security, LLM/agent security, prompt
 * LinkedIn: [linkedin.com/in/gabriel-marquez-cyber](https://www.linkedin.com/in/gabriel-marquez-cyber/)
 * Elastic SIEM Capstone: [github.com/gabrielmarquezcyber/elastic-siem-detection-vuln-prioritization](https://github.com/gabrielmarquezcyber/elastic-siem-detection-vuln-prioritization)
 * Empire Breacher: [github.com/gabrielmarquezcyber/empire-breacher](https://github.com/gabrielmarquezcyber/empire-breacher)
-* Resume: Available upon request
+* Public Resume: [Gabriel Marquez — Cybersecurity Resume](resume/Gabriel_Marquez_Public_Cybersecurity_Resume.md)
