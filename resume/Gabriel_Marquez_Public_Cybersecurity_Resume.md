@@ -1,4 +1,4 @@
-# Gabriel Marquez
+﻿# Gabriel Marquez
 
 ## Cybersecurity Operations | Detection Engineering | Vulnerability Risk Automation
 
@@ -136,7 +136,7 @@ Jul 2013 - Aug 2016 | Las Vegas, NV
 
 ---
 
-## Interview Topics
+## Technical Discussion Topics
 
 * Alert triage and false-positive review
 * Suspicious PowerShell behavior and dual-use tooling
@@ -166,3 +166,4 @@ Jul 2013 - Aug 2016 | Las Vegas, NV
 * Security Operations Engineer
 * Threat Monitoring Analyst
 * AI Security / AppSec / Product Security roles where automation, agents, prompt injection, or security research are relevant
+
