@@ -1,4 +1,4 @@
-# Gabriel Marquez — Cybersecurity Operations, Detection Engineering, and AI Security
+# Gabriel Marquez - Cybersecurity Operations, Detection Engineering, and AI Security
 
 Bilingual cybersecurity professional with 8+ years of remote endpoint troubleshooting, technical triage, remediation support, PowerShell automation, documentation, and playbook-driven operations experience.
 
@@ -94,7 +94,7 @@ Cloud Security Analyst, Information Security Analyst, Security Analyst, Azure Se
 
 ---
 
-## 3. Empire Breacher — AI/Web3 Wallet-Agent Security Research Harness
+## 3. Empire Breacher - AI/Web3 Wallet-Agent Security Research Harness
 
 A controlled AI/Web3 security research project focused on prompt-injection risk, authority-boundary failures, and safe behavior validation in wallet-enabled agent workflows.
 
@@ -150,4 +150,4 @@ AI Security, AppSec, Product Security, Web3 Security, LLM/agent security, prompt
 - Elastic SIEM Detection Engineering: [github.com/gabrielmarquezcyber/elastic-siem-detection-vuln-prioritization](https://github.com/gabrielmarquezcyber/elastic-siem-detection-vuln-prioritization)
 - Azure Cloud Security Governance: [github.com/gabrielmarquezcyber/azure-cloud-security-governance](https://github.com/gabrielmarquezcyber/azure-cloud-security-governance)
 - Empire Breacher: [github.com/gabrielmarquezcyber/empire-breacher](https://github.com/gabrielmarquezcyber/empire-breacher)
-- Public Resume: [Gabriel Marquez — Cybersecurity Resume](resume/Gabriel_Marquez_Public_Cybersecurity_Resume.md)
+- Public Resume: [Gabriel Marquez - Cybersecurity Resume](resume/Gabriel_Marquez_Public_Cybersecurity_Resume.md)
