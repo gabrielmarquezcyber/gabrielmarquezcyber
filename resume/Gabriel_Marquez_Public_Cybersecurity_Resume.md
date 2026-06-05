@@ -47,10 +47,10 @@ Primary target roles include SOC Analyst, Security Analyst, MDR Analyst, SIEM An
 
 ## Education
 
-**Master of Science — Cybersecurity & Information Assurance**
+**Master of Science - Cybersecurity & Information Assurance**
 Western Governors University
 
-**Bachelor of Science — Network Operations & Security**
+**Bachelor of Science - Network Operations & Security**
 Western Governors University
 
 ---
@@ -77,7 +77,7 @@ Built an Elastic SIEM detection engineering and vulnerability prioritization por
 
 ---
 
-### Empire Breacher — AI/Web3 Wallet-Agent Security Research Harness
+### Empire Breacher - AI/Web3 Wallet-Agent Security Research Harness
 
 Repository: https://github.com/gabrielmarquezcyber/empire-breacher
 
@@ -106,7 +106,7 @@ Built a controlled AI/Web3 security research harness modeling prompt-injection a
 ### Geek Squad / Best Buy
 
 **Senior Remote Technical Support Engineer / Team Lead**
-Oct 2019 – Apr 2024 | Remote / Las Vegas, NV
+Oct 2019 - Apr 2024 | Remote / Las Vegas, NV
 
 * Performed high-volume remote endpoint troubleshooting, technical triage, remediation support, and escalation across distributed customer environments.
 * Investigated endpoint issues involving malware indicators, suspicious behavior, patch/configuration gaps, operating system faults, application failures, and network connectivity problems.
@@ -118,7 +118,7 @@ Oct 2019 – Apr 2024 | Remote / Las Vegas, NV
 ### Geek Squad / Best Buy
 
 **Remote Technical Support Engineer**
-Aug 2016 – Oct 2019 | Remote / Las Vegas, NV
+Aug 2016 - Oct 2019 | Remote / Las Vegas, NV
 
 * Performed Tier-2 remote troubleshooting for endpoint, operating system, application, malware, browser, router, wireless, DNS, VPN, and connectivity issues.
 * Documented technical findings, remediation steps, and escalation context for distributed support teams.
@@ -128,7 +128,7 @@ Aug 2016 – Oct 2019 | Remote / Las Vegas, NV
 ### Geek Squad / Best Buy
 
 **Earlier Desktop & Remote Support Roles**
-Jul 2013 – Aug 2016 | Las Vegas, NV
+Jul 2013 - Aug 2016 | Las Vegas, NV
 
 * Diagnosed and remediated endpoint, OS, firmware, router, wireless, and general network issues for high-volume customer environments.
 * Supported malware removal, system recovery, patching, endpoint protection, and secure configuration guidance.
