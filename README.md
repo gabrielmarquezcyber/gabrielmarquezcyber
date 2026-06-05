@@ -1,4 +1,4 @@
-﻿# Gabriel Marquez - Cybersecurity Operations, Detection Engineering, and AI Security
+# Gabriel Marquez - Cybersecurity Operations, Detection Engineering, and AI Security
 
 Bilingual cybersecurity professional with 8+ years of remote endpoint troubleshooting, technical triage, remediation support, PowerShell automation, documentation, and playbook-driven operations experience.
 
@@ -151,4 +151,3 @@ AI Security, AppSec, Product Security, Web3 Security, LLM/agent security, prompt
 - Azure Cloud Security Governance: [github.com/gabrielmarquezcyber/azure-cloud-security-governance](https://github.com/gabrielmarquezcyber/azure-cloud-security-governance)
 - Empire Breacher: [github.com/gabrielmarquezcyber/empire-breacher](https://github.com/gabrielmarquezcyber/empire-breacher)
 - Public Resume: [Gabriel Marquez - Cybersecurity Resume](resume/Gabriel_Marquez_Public_Cybersecurity_Resume.md)
-
