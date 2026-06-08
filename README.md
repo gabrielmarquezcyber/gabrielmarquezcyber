@@ -124,6 +124,38 @@ AI Security, AppSec, Product Security, Web3 Security, LLM/agent security, prompt
 
 ---
 
+# Supporting Security Field Notes
+
+Short defender-focused artifacts from hands-on labs and technical research. These supporting notes show practical security learning, validation logic, troubleshooting discipline, and how offensive techniques map to defensive understanding.
+
+## Active Directory Persistence - Defender-Focused Field Notes
+
+A defender-focused Active Directory persistence artifact covering identity, trust, permissions, group inheritance, and policy-based persistence mechanisms in a controlled lab environment.
+
+### What it demonstrates
+
+- AD CS certificate-based persistence
+- SIDHistory privilege paths
+- Nested group privilege inheritance
+- AdminSDHolder / SDProp ACL propagation
+- GPO logon-script persistence
+- DCSync, Golden Ticket, and Silver Ticket persistence concepts
+- Defender validation logic after suspected domain compromise
+- Sanitized screenshot evidence, technique mapping, and troubleshooting notes
+
+### Review this field note
+
+- [Repository](https://github.com/gabrielmarquezcyber/ad-persistence-defender-field-notes)
+- [Defender validation checklist](https://github.com/gabrielmarquezcyber/ad-persistence-defender-field-notes/blob/main/docs/defender-validation-checklist.md)
+- [Technique matrix](https://github.com/gabrielmarquezcyber/ad-persistence-defender-field-notes/blob/main/docs/technique-matrix.md)
+- [Troubleshooting notes](https://github.com/gabrielmarquezcyber/ad-persistence-defender-field-notes/blob/main/docs/troubleshooting-notes.md)
+
+### Relevant roles
+
+SOC Analyst, MDR Analyst, Security Analyst, Incident Response, Identity Security, Active Directory security, Windows enterprise security, and threat hunting roles involving persistence or lateral movement.
+
+---
+
 # Technical Discussion Topics
 
 - Alert triage and false-positive review
