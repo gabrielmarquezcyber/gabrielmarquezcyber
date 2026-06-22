@@ -28,7 +28,7 @@ Start here if reviewing quickly.
 | [Elastic SIEM Detection Engineering & Vulnerability Risk Automation](https://github.com/gabrielmarquezcyber/elastic-siem-detection-vuln-prioritization) | Detection engineering, Elastic SIEM validation, analyst playbooks, alert evidence, MITRE mapping, and CVE prioritization automation. | SOC Analyst, Security Analyst, MDR Analyst, SIEM Analyst, Detection Analyst, Vulnerability Analyst |
 | [Azure Cloud Security Governance](https://github.com/gabrielmarquezcyber/azure-cloud-security-governance) | Azure RBAC scope, Key Vault recovery protection, Azure Policy tag governance, Recovery Services backup policy, NIST-aligned control mapping, risk register discipline, and sanitized evidence screenshots. | Cloud Security Analyst, Information Security Analyst, Azure Security, GRC-adjacent cloud security, MSSP/Microsoft-aligned roles |
 | [Empire Breacher](https://github.com/gabrielmarquezcyber/empire-breacher) | AI/Web3 wallet-agent security research, prompt-injection testing, authority-boundary validation, PASS/REVIEW/FAIL evaluation, OWASP/MITRE ATLAS mapping, and agent-behavior safety analysis. | AI Security, AppSec, Product Security, Web3 Security, LLM/agent security, security research |
-| [SOC Analyst Splunk Operations Workbook](https://github.com/gabrielmarquezcyber/soc-analyst-splunk-operations-workbook) | Splunk SOC analyst workflows, SPL triage, log ingestion validation, reports, dashboards, alert-candidate logic, parsing repair, masked field analysis, custom field extraction, and network-log analysis through a visual proof narrative. | SOC Analyst, MDR Analyst, SIEM Analyst, Security Operations Analyst, Splunk Analyst, Log Analysis, Security Monitoring |
+| [Supporting Security Field Notes](#supporting-security-field-notes) | Expandable supporting artifacts including the [SOC Analyst Splunk Operations Workbook](https://github.com/gabrielmarquezcyber/soc-analyst-splunk-operations-workbook) for Splunk/SIEM workflows and [Active Directory Persistence - Defender-Focused Field Notes](https://github.com/gabrielmarquezcyber/ad-persistence-defender-field-notes) for Windows identity, persistence, and defender validation. | SOC Analyst, MDR Analyst, SIEM Analyst, Security Analyst, Incident Response, Identity Security, Threat Hunting, Security Operations |
 
 ---
 
@@ -128,7 +128,7 @@ AI Security, AppSec, Product Security, Web3 Security, LLM/agent security, prompt
 
 # Supporting Security Field Notes
 
-Short defender-focused artifacts from hands-on labs and technical research. These supporting notes show practical security learning, validation logic, troubleshooting discipline, and how offensive techniques map to defensive understanding.
+Supporting workbooks and field notes from hands-on labs and technical research. These artifacts expand the portfolio with practical SIEM workflows, defender validation logic, troubleshooting discipline, and deeper technical evidence for roles that need specific platform or domain proof.
 
 ## SOC Analyst Splunk Operations Workbook
 
