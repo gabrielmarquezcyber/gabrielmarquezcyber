@@ -8,6 +8,7 @@ Recently completed an M.S. in Cybersecurity & Information Assurance and built pu
 
 - Security operations and endpoint triage
 - SIEM-style alert analysis and detection workflow documentation
+- Splunk SOC workflows: SPL triage, ingestion validation, dashboards, parsing repair, and field extraction
 - Detection logic mapped to MITRE ATT&CK
 - Analyst playbooks and repeatable investigation workflows
 - Azure cloud security governance and control documentation
@@ -27,6 +28,7 @@ Start here if reviewing quickly.
 | [Elastic SIEM Detection Engineering & Vulnerability Risk Automation](https://github.com/gabrielmarquezcyber/elastic-siem-detection-vuln-prioritization) | Detection engineering, Elastic SIEM validation, analyst playbooks, alert evidence, MITRE mapping, and CVE prioritization automation. | SOC Analyst, Security Analyst, MDR Analyst, SIEM Analyst, Detection Analyst, Vulnerability Analyst |
 | [Azure Cloud Security Governance](https://github.com/gabrielmarquezcyber/azure-cloud-security-governance) | Azure RBAC scope, Key Vault recovery protection, Azure Policy tag governance, Recovery Services backup policy, NIST-aligned control mapping, risk register discipline, and sanitized evidence screenshots. | Cloud Security Analyst, Information Security Analyst, Azure Security, GRC-adjacent cloud security, MSSP/Microsoft-aligned roles |
 | [Empire Breacher](https://github.com/gabrielmarquezcyber/empire-breacher) | AI/Web3 wallet-agent security research, prompt-injection testing, authority-boundary validation, PASS/REVIEW/FAIL evaluation, OWASP/MITRE ATLAS mapping, and agent-behavior safety analysis. | AI Security, AppSec, Product Security, Web3 Security, LLM/agent security, security research |
+| [SOC Analyst Splunk Operations Workbook](https://github.com/gabrielmarquezcyber/soc-analyst-splunk-operations-workbook) | Splunk SOC analyst workflows, SPL triage, log ingestion validation, reports, dashboards, alert-candidate logic, parsing repair, masked field analysis, custom field extraction, and network-log analysis through a visual proof narrative. | SOC Analyst, MDR Analyst, SIEM Analyst, Security Operations Analyst, Splunk Analyst, Log Analysis, Security Monitoring |
 
 ---
 
@@ -128,6 +130,38 @@ AI Security, AppSec, Product Security, Web3 Security, LLM/agent security, prompt
 
 Short defender-focused artifacts from hands-on labs and technical research. These supporting notes show practical security learning, validation logic, troubleshooting discipline, and how offensive techniques map to defensive understanding.
 
+## SOC Analyst Splunk Operations Workbook
+
+A reviewer-facing Splunk SOC operations artifact demonstrating practical SIEM analyst workflows, SPL search logic, log ingestion validation, reporting, dashboarding, parsing repair, custom field extraction, and network-log analysis.
+
+This project does not claim production Splunk administration experience. It demonstrates hands-on Splunk analyst and configuration workflow in a controlled lab environment, with embedded screenshot evidence and supporting SPL/config files.
+
+### What it demonstrates
+
+- SPL triage searches for SOC-style investigation workflows
+- Lookup enrichment, iplocation enrichment, eventstats, threshold logic, and baseline/anomaly-style reasoning
+- Splunk Enterprise startup, index creation, listener/forwarder concepts, and log ingestion validation
+- Linux authentication log and Apache access log ingestion
+- Reports, dashboard panels, and alert-candidate SPL
+- Custom Splunk app structure and scripted input documentation
+- inputs.conf, props.conf, transforms.conf, and fields.conf workflow documentation
+- Event boundary repair, multiline parsing, SEDCMD masking, and custom field extraction
+- Safe masked field analysis and validation searches
+- Applied network-log parsing repair and network activity analysis
+
+### Review this field note
+
+- [Repository](https://github.com/gabrielmarquezcyber/soc-analyst-splunk-operations-workbook)
+- [Main visual README](https://github.com/gabrielmarquezcyber/soc-analyst-splunk-operations-workbook)
+- [Reviewer proof map](https://github.com/gabrielmarquezcyber/soc-analyst-splunk-operations-workbook/blob/main/reviewer-proof-map.md)
+- [Docs index](https://github.com/gabrielmarquezcyber/soc-analyst-splunk-operations-workbook/tree/main/docs)
+
+### Relevant roles
+
+SOC Analyst, MDR Analyst, SIEM Analyst, Splunk Analyst, Security Operations Analyst, Security Monitoring Analyst, Log Analysis Analyst, Detection Analyst, and MSSP roles involving Splunk, SPL, dashboards, reports, parsing, field extraction, or log ingestion.
+
+---
+
 ## Active Directory Persistence - Defender-Focused Field Notes
 
 A defender-focused Active Directory persistence artifact covering identity, trust, permissions, group inheritance, and policy-based persistence mechanisms in a controlled lab environment.
@@ -164,6 +198,10 @@ SOC Analyst, MDR Analyst, Security Analyst, Incident Response, Identity Security
 - MITRE ATT&CK mapping for analyst communication
 - Analyst playbook design and evidence documentation
 - Elastic SIEM rule validation and alert evidence
+- Splunk SPL triage, lookup enrichment, iplocation, eventstats, and alert-candidate logic
+- Splunk ingestion validation, index creation, reports, dashboards, and analyst-facing visual evidence
+- Splunk parsing repair using props.conf, transforms.conf, fields.conf, SEDCMD masking, and custom field extraction
+- Linux auth log, Apache access log, and network-log analysis in Splunk
 - Azure RBAC scope and least-privilege governance
 - Azure Key Vault recovery protections
 - Azure Policy tag governance
@@ -182,4 +220,5 @@ SOC Analyst, MDR Analyst, Security Analyst, Incident Response, Identity Security
 - Elastic SIEM Detection Engineering: [github.com/gabrielmarquezcyber/elastic-siem-detection-vuln-prioritization](https://github.com/gabrielmarquezcyber/elastic-siem-detection-vuln-prioritization)
 - Azure Cloud Security Governance: [github.com/gabrielmarquezcyber/azure-cloud-security-governance](https://github.com/gabrielmarquezcyber/azure-cloud-security-governance)
 - Empire Breacher: [github.com/gabrielmarquezcyber/empire-breacher](https://github.com/gabrielmarquezcyber/empire-breacher)
+- SOC Analyst Splunk Operations Workbook: [github.com/gabrielmarquezcyber/soc-analyst-splunk-operations-workbook](https://github.com/gabrielmarquezcyber/soc-analyst-splunk-operations-workbook)
 - Public Resume: [Gabriel Marquez - Cybersecurity Resume](resume/Gabriel_Marquez_Public_Cybersecurity_Resume.md)
