@@ -31,6 +31,7 @@ Start here if reviewing quickly.
 | [Azure Cloud Security Governance](https://github.com/gabrielmarquezcyber/azure-cloud-security-governance) | Azure RBAC scope, Key Vault recovery protection, Azure Policy tag governance, Recovery Services backup policy, NIST-aligned control mapping, risk register discipline, and sanitized evidence screenshots. | Cloud Security Analyst, Information Security Analyst, Azure Security, GRC-adjacent cloud security, MSSP/Microsoft-aligned roles |
 | [Empire Breacher](https://github.com/gabrielmarquezcyber/empire-breacher) | AI/Web3 wallet-agent security research, prompt-injection testing, authority-boundary validation, PASS/REVIEW/FAIL evaluation, OWASP/MITRE ATLAS mapping, and agent-behavior safety analysis. | AI Security, AppSec, Product Security, Web3 Security, LLM/agent security, security research |
 | [Supporting Security Field Notes](#supporting-security-field-notes) | Expandable supporting artifacts including the SOC Analyst Splunk Operations Workbook and Active Directory Persistence field notes. | SOC Analyst, MDR Analyst, SIEM Analyst, Security Analyst, Incident Response, Identity Security, Threat Hunting, Security Operations |
+| [Writing and Security Analysis](#writing-and-security-analysis) | Published cybersecurity writing, labor-market analysis, AI security thinking, source discipline, and public security communication. | Security Analyst, GRC Analyst, AI Security, Security Strategy, Technical Communication |
 
 ---
 
@@ -221,6 +222,30 @@ A defender-focused Active Directory persistence artifact covering identity, trus
 ### Relevant roles
 
 SOC Analyst, MDR Analyst, Security Analyst, Incident Response, Identity Security, Active Directory security, Windows enterprise security, and threat hunting roles involving persistence or lateral movement.
+---
+
+# Writing and Security Analysis
+
+A companion proof area for published cybersecurity writing, labor-market analysis, AI security thinking, source discipline, and public security communication.
+
+This section supports the technical portfolio by showing written analysis, argument structure, and the ability to explain why security work matters.
+
+## Cybersecurity Writing Portfolio
+
+| Work | Focus | Links |
+|---|---|---|
+| Making Competence Inspectable | Cybersecurity hiring, labor-market structure, proof-building, and why serious public artifacts matter. | [Essay](https://github.com/gabrielmarquezcyber/cybersecurity-writing-portfolio/blob/main/essays/001-making-competence-inspectable.md) / [Sources](https://github.com/gabrielmarquezcyber/cybersecurity-writing-portfolio/blob/main/sources/001-making-competence-inspectable-sources.md) / [Spanish](https://github.com/gabrielmarquezcyber/cybersecurity-writing-portfolio/blob/main/essays/001-making-competence-inspectable-es.md) |
+
+Review the repository:
+
+- [Cybersecurity Writing Portfolio](https://github.com/gabrielmarquezcyber/cybersecurity-writing-portfolio)
+
+### What it demonstrates
+
+- Clear cybersecurity writing and analysis.
+- Labor-market and career strategy analysis.
+- Security operations and AI security communication.
+- Source-backed public writing that complements the technical portfolio.
 
 ---
 
@@ -264,18 +289,3 @@ SOC Analyst, MDR Analyst, Security Analyst, Incident Response, Identity Security
 - Empire Breacher: [github.com/gabrielmarquezcyber/empire-breacher](https://github.com/gabrielmarquezcyber/empire-breacher)
 - SOC Analyst Splunk Operations Workbook: [github.com/gabrielmarquezcyber/soc-analyst-splunk-operations-workbook](https://github.com/gabrielmarquezcyber/soc-analyst-splunk-operations-workbook)
 - Active Directory Persistence Field Notes: [github.com/gabrielmarquezcyber/ad-persistence-defender-field-notes](https://github.com/gabrielmarquezcyber/ad-persistence-defender-field-notes)
----
-
-# Writing and Security Analysis
-
-A small supporting section for published security writing.
-
-Current published work:
-
-| Work | Focus | Links |
-|---|---|---|
-| Making Competence Inspectable | Cybersecurity hiring, labor-market structure, proof-building, and why serious public artifacts matter. | [Essay](https://github.com/gabrielmarquezcyber/cybersecurity-writing-portfolio/blob/main/essays/001-making-competence-inspectable.md) / [Sources](https://github.com/gabrielmarquezcyber/cybersecurity-writing-portfolio/blob/main/sources/001-making-competence-inspectable-sources.md) / [Spanish](https://github.com/gabrielmarquezcyber/cybersecurity-writing-portfolio/blob/main/essays/001-making-competence-inspectable-es.md) |
-
-Repository:
-
-- [Cybersecurity Writing Portfolio](https://github.com/gabrielmarquezcyber/cybersecurity-writing-portfolio)
