@@ -1,107 +1,79 @@
-# Gabriel Marquez - Cybersecurity Operations, Detection Engineering, and AI Security
+# Gabriel Marquez - Cybersecurity Operations, SIEM, Vulnerability Risk, and Cloud Security Governance
 
-Bilingual cybersecurity professional with 8+ years of remote endpoint troubleshooting, technical triage, remediation support, PowerShell automation, documentation, and playbook-driven operations experience.
+Bilingual cybersecurity professional with an M.S. in Cybersecurity & Information Assurance, SecurityX, CySA+, PenTest+, and 8+ years of remote technical operations, escalation, remediation support, documentation, and playbook-driven troubleshooting experience.
 
-Recently completed an M.S. in Cybersecurity & Information Assurance and built public security projects focused on SIEM detection engineering, analyst workflows, vulnerability prioritization, Azure cloud security governance, Elastic/Wazuh detection operations, and AI/Web3 tool-boundary security research.
+Current target roles: SOC Analyst, Security Analyst, MDR Analyst, SIEM Analyst, Vulnerability Analyst, Information Security Analyst, Cloud Security Analyst, and GRC-adjacent cloud security roles.
 
-## Core Strengths
+## Certifications and Education
 
-- Security operations and endpoint triage
-- SIEM-style alert analysis and detection workflow documentation
-- Elastic and Wazuh detection operations
-- Splunk SOC workflows: SPL triage, ingestion validation, dashboards, parsing repair, and field extraction
-- Detection logic mapped to MITRE ATT&CK
-- Analyst playbooks and repeatable investigation workflows
-- Azure cloud security governance and control documentation
-- Vulnerability prioritization using EPSS, CISA KEV, NVD, and CVSS context
-- PowerShell and Python automation for security workflows
-- AI/tool-boundary security research
-- Bilingual Spanish/English technical communication
+- M.S. Cybersecurity & Information Assurance
+- B.S. Network Operations & Security
+- SecurityX
+- CySA+
+- PenTest+
+- ISC2 CC
+- Project+
 
 ---
 
 # Portfolio Proof Map
 
-Start here if reviewing quickly.
+Fast reviewer path.
 
-| Project | What It Proves | Best Fit |
+| Review Need | Start Here | Why |
 |---|---|---|
-| [Elastic SIEM Detection Engineering & Vulnerability Risk Automation](https://github.com/gabrielmarquezcyber/elastic-siem-detection-vuln-prioritization) | Detection engineering, Elastic SIEM validation, analyst playbooks, alert evidence, MITRE mapping, and CVE prioritization automation. | SOC Analyst, Security Analyst, MDR Analyst, SIEM Analyst, Detection Analyst, Vulnerability Analyst |
-| [Elastic and Wazuh Detection Operations Workbook](https://github.com/gabrielmarquezcyber/elastic-wazuh-detection-operations-workbook) | Logstash ingestion, Wazuh custom rule troubleshooting, KQL/Lucene investigation patterns, Apache log attack reconstruction, sanitized evidence, and reviewer-facing SOC documentation. | SOC Analyst, MDR Analyst, SIEM Analyst, Detection Analyst, Security Analyst |
-| [Azure Cloud Security Governance](https://github.com/gabrielmarquezcyber/azure-cloud-security-governance) | Azure RBAC scope, Key Vault recovery protection, Azure Policy tag governance, Recovery Services backup policy, NIST-aligned control mapping, risk register discipline, and sanitized evidence screenshots. | Cloud Security Analyst, Information Security Analyst, Azure Security, GRC-adjacent cloud security, MSSP/Microsoft-aligned roles |
-| [Empire Breacher](https://github.com/gabrielmarquezcyber/empire-breacher) | AI/Web3 wallet-agent security research, prompt-injection testing, authority-boundary validation, PASS/REVIEW/FAIL evaluation, OWASP/MITRE ATLAS mapping, and agent-behavior safety analysis. | AI Security, AppSec, Product Security, Web3 Security, LLM/agent security, security research |
-| [Supporting Security Field Notes](#supporting-security-field-notes) | Expandable supporting artifacts including the SOC Analyst Splunk Operations Workbook and Active Directory Persistence field notes. | SOC Analyst, MDR Analyst, SIEM Analyst, Security Analyst, Incident Response, Identity Security, Threat Hunting, Security Operations |
-| [Writing and Security Analysis](#writing-and-security-analysis) | Published cybersecurity writing, labor-market analysis, AI security thinking, source discipline, and public security communication. | Security Analyst, GRC Analyst, AI Security, Security Strategy, Technical Communication |
+| Primary SOC / detection proof | [Elastic SIEM Detection Engineering & Vulnerability Risk Automation](https://github.com/gabrielmarquezcyber/elastic-siem-detection-vuln-prioritization) | Strongest defensive security artifact: detection validation, MITRE mapping, analyst playbooks, evidence capture, and Python vulnerability prioritization. |
+| Cloud security / governance proof | [Azure Cloud Security Governance](https://github.com/gabrielmarquezcyber/azure-cloud-security-governance) | Best cloud/GRC complement: RBAC, Key Vault recovery protection, Azure Policy, backup readiness, risk register, and control mapping. |
+| SOC workbook depth | [Elastic and Wazuh Detection Operations Workbook](https://github.com/gabrielmarquezcyber/elastic-wazuh-detection-operations-workbook) | Logstash ingestion, Wazuh rule troubleshooting, KQL/Lucene investigation, and Apache log attack reconstruction. |
+| Splunk / SIEM workflow proof | [SOC Analyst Splunk Operations Workbook](https://github.com/gabrielmarquezcyber/soc-analyst-splunk-operations-workbook) | SPL triage, ingestion validation, dashboards, parsing repair, masking, field extraction, and network-log analysis. |
+| Windows identity / persistence literacy | [Active Directory Persistence - Defender-Focused Field Notes](https://github.com/gabrielmarquezcyber/ad-persistence-defender-field-notes) | Defender-focused validation logic for AD CS, SIDHistory, nested groups, AdminSDHolder/SDProp, GPO logon scripts, and Kerberos trust abuse. |
+| AI / agent security research | [Empire Breacher](https://github.com/gabrielmarquezcyber/empire-breacher) | Controlled AI/Web3 wallet-agent research focused on prompt injection, authority boundaries, PASS/REVIEW/FAIL behavior, and abuse-case analysis. |
+| Writing and risk communication | [Cybersecurity Writing Portfolio](https://github.com/gabrielmarquezcyber/cybersecurity-writing-portfolio) | Published security writing, labor-market analysis, source discipline, and public communication. |
 
 ---
 
-# Featured Security Projects
+# Primary Portfolio Pillars
 
 ## 1. Elastic SIEM Detection Engineering & Vulnerability Risk Automation
 
 A cybersecurity portfolio project focused on SOC-style detection workflows, alert validation, analyst documentation, and risk-based vulnerability prioritization.
 
-This project demonstrates how security telemetry and vulnerability intelligence can be turned into practical analyst workflows.
+This is the strongest current technical proof artifact for SOC, MDR, SIEM, Detection Analyst, and Vulnerability Analyst roles.
 
 ### What it demonstrates
 
-- Built and validated Elastic SIEM detection rules.
-- Created Suspicious PowerShell Flags detection mapped to MITRE ATT&CK T1059.001.
-- Created Failed Logon Burst detection using Windows Event ID 4625 mapped to MITRE ATT&CK T1110.
-- Developed analyst-facing playbooks with investigation steps, escalation context, and evidence handling.
-- Exported detection logic as reproducible NDJSON rules.
-- Captured Elastic validation screenshots and alert evidence.
-- Built Python CVE prioritization automation using EPSS, CISA KEV, NVD, and CVSS data.
-- Generated ranked CVE outputs and prioritization graphics for remediation planning.
+- Elastic SIEM detection rule creation and validation.
+- Suspicious PowerShell behavior detection.
+- Failed logon burst detection using Windows Event ID 4625.
+- MITRE ATT&CK mapping.
+- Analyst-facing playbooks.
+- Evidence screenshots and alert validation.
+- Python CVE prioritization using EPSS, CISA KEV, NVD, and CVSS context.
+- Risk-based remediation prioritization.
+
+### Business / SOC value
+
+- Reduces alert ambiguity.
+- Turns detections into triage steps.
+- Connects evidence to analyst decision-making.
+- Helps prioritize remediation beyond raw severity.
 
 ### Review this project
 
 - [Repository](https://github.com/gabrielmarquezcyber/elastic-siem-detection-vuln-prioritization)
-- [Suspicious PowerShell Flags rule](https://github.com/gabrielmarquezcyber/elastic-siem-detection-vuln-prioritization/blob/main/rules/Suspicious_PowerShell_Flags_EQL.ndjson)
+- [Suspicious PowerShell rule](https://github.com/gabrielmarquezcyber/elastic-siem-detection-vuln-prioritization/blob/main/rules/Suspicious_PowerShell_Flags_EQL.ndjson)
 - [Failed Logon Burst rule](https://github.com/gabrielmarquezcyber/elastic-siem-detection-vuln-prioritization/blob/main/rules/failed_logon_burst.ndjson)
 - [Suspicious PowerShell playbook](https://github.com/gabrielmarquezcyber/elastic-siem-detection-vuln-prioritization/blob/main/artifacts/playbooks/playbook_suspicious_powershell_flags.md)
 - [Failed Logon Burst playbook](https://github.com/gabrielmarquezcyber/elastic-siem-detection-vuln-prioritization/blob/main/artifacts/playbooks/playbook_failed_logon_burst_4625.md)
 - [CVE prioritization script](https://github.com/gabrielmarquezcyber/elastic-siem-detection-vuln-prioritization/blob/main/artifacts/scripts/cve_prioritizer.py)
 
-### Relevant roles
+### Best-fit roles
 
-SOC Analyst, Security Analyst, MDR Analyst, SIEM Analyst, Detection Analyst, Vulnerability Analyst, Security Operations Analyst, and detection-engineering-adjacent roles.
-
----
-
-## 2. Elastic and Wazuh Detection Operations Workbook
-
-A reviewer-facing Elastic and Wazuh SOC operations workbook covering Logstash ingestion, Wazuh rule engineering, KQL/Lucene investigation patterns, and Apache log attack reconstruction.
-
-This project demonstrates the analyst chain from raw logs to parsed fields, validated detection logic, focused investigation queries, and evidence-backed attack reconstruction.
-
-### What it demonstrates
-
-- Logstash pipeline configuration for Linux authentication log ingestion.
-- Grok parsing and timestamp normalization.
-- Kibana validation of parsed authentication events.
-- Wazuh decoder inspection and custom alert-rule engineering.
-- Field-level troubleshooting when detection logic breaks.
-- Corrected Wazuh rule validation after decoded-field inspection.
-- KQL and Lucene investigation patterns.
-- Web-application attack reconstruction from Apache log evidence.
-- Sanitized screenshots, query ledgers, source files, and reviewer proof map.
-
-### Review this project
-
-- [Repository](https://github.com/gabrielmarquezcyber/elastic-wazuh-detection-operations-workbook)
-- [Reviewer proof map](https://github.com/gabrielmarquezcyber/elastic-wazuh-detection-operations-workbook/blob/main/reviewer-proof-map.md)
-- [Docs index](https://github.com/gabrielmarquezcyber/elastic-wazuh-detection-operations-workbook/blob/main/docs/README.md)
-- [Wazuh rule troubleshooting](https://github.com/gabrielmarquezcyber/elastic-wazuh-detection-operations-workbook/blob/main/docs/02-wazuh-custom-alert-rule-engineering.md)
-- [Slingshot attack reconstruction](https://github.com/gabrielmarquezcyber/elastic-wazuh-detection-operations-workbook/blob/main/docs/04-slingshot-attack-reconstruction.md)
-
-### Relevant roles
-
-SOC Analyst, MDR Analyst, SIEM Analyst, Detection Analyst, Security Analyst, Security Operations Analyst, and log-analysis roles involving Elastic, Wazuh, KQL, Lucene, or Apache logs.
+SOC Analyst, Security Analyst, MDR Analyst, SIEM Analyst, Detection Analyst, Vulnerability Analyst, and Security Operations Analyst.
 
 ---
 
-## 3. Azure Cloud Security Governance
+## 2. Azure Cloud Security Governance
 
 A public Azure cloud security governance portfolio project for a simulated regulated environment.
 
@@ -111,7 +83,7 @@ This project documents how Azure configuration choices can be mapped to security
 
 - Department-scoped Azure RBAC and least-privilege access reasoning.
 - Azure Key Vault soft delete and purge protection.
-- Azure Policy Department tag governance for ownership and accountability.
+- Azure Policy Department tag governance.
 - Recovery Services backup policy schedule and retention documentation.
 - NIST SP 800-53 control-family alignment.
 - PCI/FISMA-oriented governance notes without claiming formal certification.
@@ -125,51 +97,47 @@ This project documents how Azure configuration choices can be mapped to security
 - [Control mapping](https://github.com/gabrielmarquezcyber/azure-cloud-security-governance/blob/main/docs/control-mapping.md)
 - [Risk register](https://github.com/gabrielmarquezcyber/azure-cloud-security-governance/blob/main/docs/risk-register.md)
 
-### Relevant roles
+### Best-fit roles
 
 Cloud Security Analyst, Information Security Analyst, Security Analyst, Azure Security, GRC-adjacent cloud security, Microsoft security operations, and MSSP/Microsoft-aligned roles.
 
 ---
 
-## 4. Empire Breacher - AI/Web3 Wallet-Agent Security Research Harness
+# Supporting SOC Workbooks and Security Field Notes
 
-A controlled AI/Web3 security research project focused on prompt-injection risk, authority-boundary failures, and safe behavior validation in wallet-enabled agent workflows.
+## Elastic and Wazuh Detection Operations Workbook
 
-This project models how untrusted external content should be analyzed without allowing that content to authorize high-impact wallet behavior.
+A reviewer-facing Elastic and Wazuh SOC operations workbook covering Logstash ingestion, Wazuh rule engineering, KQL/Lucene investigation patterns, and Apache log attack reconstruction.
+
+Best reviewed for: SOC Analyst, SIEM Analyst, MDR Analyst, Detection Analyst, Wazuh, Elastic, and Logstash roles.
 
 ### What it demonstrates
 
-- Built a controlled wallet-agent security research harness.
-- Modeled prompt-injection and authority-boundary risk in lab conditions.
-- Implemented deterministic PASS / REVIEW / FAIL evaluation.
-- Created malicious, ambiguous, and benign wallet-agent fixtures.
-- Built a toy wallet-agent simulator.
-- Enforced the invariant that external content can be analyzed but cannot authorize wallet behavior.
-- Added fixture evaluation tooling, validation reports, safety policy documentation, and project roadmap.
-- Added threat framework and detection mapping using OWASP LLM Top 10 and MITRE ATLAS concepts.
+- Logstash pipeline configuration for Linux authentication log ingestion.
+- Grok parsing and timestamp normalization.
+- Kibana validation of parsed authentication events.
+- Wazuh decoder inspection and custom alert-rule engineering.
+- Field-level troubleshooting when detection logic breaks.
+- Corrected Wazuh rule validation after decoded-field inspection.
+- KQL and Lucene investigation patterns.
+- Web-application attack reconstruction from Apache log evidence.
+- Sanitized screenshots, query ledgers, source files, and reviewer proof map.
 
-### Review this project
+### Review this workbook
 
-- [Repository](https://github.com/gabrielmarquezcyber/empire-breacher)
-- [Project roadmap](https://github.com/gabrielmarquezcyber/empire-breacher/blob/main/docs/ROADMAP.md)
-- [Phase 3 validation report](https://github.com/gabrielmarquezcyber/empire-breacher/blob/main/docs/validation-reports/phase-3-wallet-agent-evaluation.md)
-- [Threat framework and detection mapping](https://github.com/gabrielmarquezcyber/empire-breacher/blob/main/docs/threat-framework-and-detection-mapping.md)
-
-### Relevant roles
-
-AI Security, AppSec, Product Security, Web3 Security, LLM/agent security, prompt injection, automation security, security research, and forward-looking security operations roles involving AI-assisted workflows.
+- [Repository](https://github.com/gabrielmarquezcyber/elastic-wazuh-detection-operations-workbook)
+- [Reviewer proof map](https://github.com/gabrielmarquezcyber/elastic-wazuh-detection-operations-workbook/blob/main/reviewer-proof-map.md)
+- [Docs index](https://github.com/gabrielmarquezcyber/elastic-wazuh-detection-operations-workbook/blob/main/docs/README.md)
+- [Wazuh rule troubleshooting](https://github.com/gabrielmarquezcyber/elastic-wazuh-detection-operations-workbook/blob/main/docs/02-wazuh-custom-alert-rule-engineering.md)
+- [Slingshot attack reconstruction](https://github.com/gabrielmarquezcyber/elastic-wazuh-detection-operations-workbook/blob/main/docs/04-slingshot-attack-reconstruction.md)
 
 ---
-
-# Supporting Security Field Notes
-
-Supporting workbooks and field notes from hands-on labs and technical research. These artifacts expand the portfolio with practical SIEM workflows, defender validation logic, troubleshooting discipline, and deeper technical evidence for roles that need specific platform or domain proof.
 
 ## SOC Analyst Splunk Operations Workbook
 
 A reviewer-facing Splunk SOC operations artifact demonstrating practical SIEM analyst workflows, SPL search logic, log ingestion validation, reporting, dashboarding, parsing repair, custom field extraction, and network-log analysis.
 
-This project does not claim production Splunk administration experience. It demonstrates hands-on Splunk analyst and configuration workflow in a controlled lab environment, with embedded screenshot evidence and supporting SPL/config files.
+Tags: Splunk, SPL, Log Ingestion, Parsing Repair, Dashboards, SOC Workflow.
 
 ### What it demonstrates
 
@@ -179,21 +147,15 @@ This project does not claim production Splunk administration experience. It demo
 - Linux authentication log and Apache access log ingestion.
 - Reports, dashboard panels, and alert-candidate SPL.
 - Custom Splunk app structure and scripted input documentation.
-- inputs.conf, props.conf, transforms.conf, and fields.conf workflow documentation.
 - Event boundary repair, multiline parsing, SEDCMD masking, and custom field extraction.
 - Safe masked field analysis and validation searches.
 - Applied network-log parsing repair and network activity analysis.
 
-### Review this field note
+### Review this workbook
 
 - [Repository](https://github.com/gabrielmarquezcyber/soc-analyst-splunk-operations-workbook)
-- [Main visual README](https://github.com/gabrielmarquezcyber/soc-analyst-splunk-operations-workbook)
 - [Reviewer proof map](https://github.com/gabrielmarquezcyber/soc-analyst-splunk-operations-workbook/blob/main/reviewer-proof-map.md)
 - [Docs index](https://github.com/gabrielmarquezcyber/soc-analyst-splunk-operations-workbook/blob/main/docs/README.md)
-
-### Relevant roles
-
-SOC Analyst, MDR Analyst, SIEM Analyst, Splunk Analyst, Security Operations Analyst, Security Monitoring Analyst, Log Analysis Analyst, Detection Analyst, and MSSP roles involving Splunk, SPL, dashboards, reports, parsing, field extraction, or log ingestion.
 
 ---
 
@@ -203,14 +165,24 @@ A defender-focused Active Directory persistence artifact covering identity, trus
 
 ### What it demonstrates
 
-- AD CS certificate-based persistence.
-- SIDHistory privilege paths.
+- AD CS certificate-based persistence awareness.
+- SIDHistory privilege path validation.
 - Nested group privilege inheritance.
 - AdminSDHolder / SDProp ACL propagation.
 - GPO logon-script persistence.
 - DCSync, Golden Ticket, and Silver Ticket persistence concepts.
 - Defender validation logic after suspected domain compromise.
 - Sanitized screenshot evidence, technique mapping, and troubleshooting notes.
+
+### Defender validation path
+
+- Check replication rights.
+- Check KRBTGT exposure and reset status.
+- Check AD CS template and CA exposure.
+- Check SIDHistory.
+- Check nested privileged groups.
+- Check AdminSDHolder / SDProp.
+- Check GPO logon scripts.
 
 ### Review this field note
 
@@ -219,64 +191,114 @@ A defender-focused Active Directory persistence artifact covering identity, trus
 - [Technique matrix](https://github.com/gabrielmarquezcyber/ad-persistence-defender-field-notes/blob/main/docs/technique-matrix.md)
 - [Troubleshooting notes](https://github.com/gabrielmarquezcyber/ad-persistence-defender-field-notes/blob/main/docs/troubleshooting-notes.md)
 
-### Relevant roles
+---
 
-SOC Analyst, MDR Analyst, Security Analyst, Incident Response, Identity Security, Active Directory security, Windows enterprise security, and threat hunting roles involving persistence or lateral movement.
+# Featured Research: AI and Agent Security
+
+## Empire Breacher
+
+A controlled AI/Web3 wallet-agent security research harness focused on prompt-injection testing, authority-boundary validation, PASS/REVIEW/FAIL behavior evaluation, and abuse-case analysis for agentic systems.
+
+This is a research artifact, not the primary SOC/GRC pillar.
+
+### What it demonstrates
+
+- AI/agent security research.
+- Adversarial testing mindset.
+- Authority-boundary validation.
+- Prompt-injection and unsafe instruction analysis.
+- PASS/REVIEW/FAIL behavior evaluation.
+- OWASP LLM and MITRE ATLAS mapping concepts.
+- Abuse-case analysis for tool-enabled AI systems.
+
+### Review this research
+
+- [Repository](https://github.com/gabrielmarquezcyber/empire-breacher)
+- [Project roadmap](https://github.com/gabrielmarquezcyber/empire-breacher/blob/main/docs/ROADMAP.md)
+- [Phase 3 validation report](https://github.com/gabrielmarquezcyber/empire-breacher/blob/main/docs/validation-reports/phase-3-wallet-agent-evaluation.md)
+- [Threat framework and detection mapping](https://github.com/gabrielmarquezcyber/empire-breacher/blob/main/docs/threat-framework-and-detection-mapping.md)
+
 ---
 
 # Writing and Security Analysis
 
-A companion proof area for published cybersecurity writing, labor-market analysis, AI security thinking, source discipline, and public security communication.
-
-This section supports the technical portfolio by showing written analysis, argument structure, and the ability to explain why security work matters.
+A supporting proof area for published cybersecurity writing, labor-market analysis, source discipline, and public risk communication.
 
 ## Cybersecurity Writing Portfolio
+
+### Current published work
 
 | Work | Focus | Links |
 |---|---|---|
 | Making Competence Inspectable | Cybersecurity hiring, labor-market structure, proof-building, and why serious public artifacts matter. | [Essay](https://github.com/gabrielmarquezcyber/cybersecurity-writing-portfolio/blob/main/essays/001-making-competence-inspectable.md) / [Sources](https://github.com/gabrielmarquezcyber/cybersecurity-writing-portfolio/blob/main/sources/001-making-competence-inspectable-sources.md) / [Spanish](https://github.com/gabrielmarquezcyber/cybersecurity-writing-portfolio/blob/main/essays/001-making-competence-inspectable-es.md) |
 
-Review the repository:
+### Review this writing portfolio
 
-- [Cybersecurity Writing Portfolio](https://github.com/gabrielmarquezcyber/cybersecurity-writing-portfolio)
+- [Repository](https://github.com/gabrielmarquezcyber/cybersecurity-writing-portfolio)
 
 ### What it demonstrates
 
 - Clear cybersecurity writing and analysis.
 - Labor-market and career strategy analysis.
-- Security operations and AI security communication.
-- Source-backed public writing that complements the technical portfolio.
+- Source-backed public writing.
+- Security communication that complements the technical portfolio.
+
+---
+
+# Core Strengths
+
+- Security operations and endpoint triage.
+- SIEM-style alert analysis and detection workflow documentation.
+- Elastic and Wazuh detection operations.
+- Splunk SOC workflows.
+- Detection logic mapped to MITRE ATT&CK.
+- Analyst playbooks and repeatable investigation workflows.
+- Azure cloud security governance and control documentation.
+- Vulnerability prioritization using EPSS, CISA KEV, NVD, and CVSS context.
+- PowerShell and Python automation for security workflows.
+- AI/tool-boundary security research.
+- Bilingual Spanish/English technical communication.
 
 ---
 
 # Technical Discussion Topics
 
-- Alert triage and false-positive review
-- Suspicious PowerShell behavior and dual-use tooling
-- Failed logon burst detection and brute-force / password-spray logic
-- MITRE ATT&CK mapping for analyst communication
-- Analyst playbook design and evidence documentation
-- Elastic SIEM rule validation and alert evidence
-- Elastic and Wazuh detection operations
-- Logstash pipeline configuration and troubleshooting
-- Wazuh decoder inspection and custom rule validation
-- KQL and Lucene investigation patterns
-- Apache log attack reconstruction
-- Splunk SPL triage, lookup enrichment, iplocation, eventstats, and alert-candidate logic
-- Splunk ingestion validation, index creation, reports, dashboards, and analyst-facing visual evidence
-- Splunk parsing repair using props.conf, transforms.conf, fields.conf, SEDCMD masking, and custom field extraction
-- Linux auth log, Apache access log, and network-log analysis
-- Active Directory persistence validation from a defender perspective
-- Azure RBAC scope and least-privilege governance
-- Azure Key Vault recovery protections
-- Azure Policy tag governance
-- Backup policy documentation and recovery-readiness reasoning
-- NIST SP 800-53 control-family mapping
-- Python-based CVE prioritization
-- EPSS, CISA KEV, NVD, and CVSS-based remediation prioritization
-- AI/tool-boundary safety principles
-- Cybersecurity writing, security analysis, and risk communication
-- Bilingual Spanish/English technical communication in support and security operations contexts
+- Alert triage and false-positive review.
+- Suspicious PowerShell behavior and dual-use tooling.
+- Failed logon burst detection and brute-force / password-spray logic.
+- MITRE ATT&CK mapping for analyst communication.
+- Analyst playbook design and evidence documentation.
+- Elastic SIEM rule validation and alert evidence.
+- Logstash pipeline configuration and troubleshooting.
+- Wazuh decoder inspection and custom rule validation.
+- KQL and Lucene investigation patterns.
+- Apache log attack reconstruction.
+- Splunk SPL triage, lookup enrichment, iplocation, eventstats, and alert-candidate logic.
+- Splunk ingestion validation, reports, dashboards, parsing repair, and field extraction.
+- Linux auth log, Apache access log, and network-log analysis.
+- Active Directory persistence validation from a defender perspective.
+- Azure RBAC scope and least-privilege governance.
+- Azure Key Vault recovery protections.
+- Azure Policy tag governance.
+- Backup policy documentation and recovery-readiness reasoning.
+- NIST SP 800-53 control-family mapping.
+- Python-based CVE prioritization.
+- EPSS, CISA KEV, NVD, and CVSS-based remediation prioritization.
+- AI/tool-boundary safety principles.
+- Cybersecurity writing, security analysis, and risk communication.
+- Bilingual Spanish/English technical communication in support and security operations contexts.
+
+---
+
+# Availability and Contact
+
+Open to fully remote cybersecurity roles focused on SOC operations, SIEM analysis, vulnerability management, information security, cloud security governance, and GRC-adjacent security work.
+
+Best-fit roles: SOC Analyst, Security Analyst, MDR Analyst, SIEM Analyst, Vulnerability Analyst, Information Security Analyst, Cloud Security Analyst.
+
+- LinkedIn: https://www.linkedin.com/in/gabriel-marquez-cyber/
+- Email: gabriel.marquez.cyber@gmail.com
+- GitHub: https://github.com/gabrielmarquezcyber
 
 ---
 
@@ -284,8 +306,9 @@ Review the repository:
 
 - LinkedIn: [linkedin.com/in/gabriel-marquez-cyber](https://www.linkedin.com/in/gabriel-marquez-cyber)
 - Elastic SIEM Detection Engineering: [github.com/gabrielmarquezcyber/elastic-siem-detection-vuln-prioritization](https://github.com/gabrielmarquezcyber/elastic-siem-detection-vuln-prioritization)
-- Elastic and Wazuh Detection Operations Workbook: [github.com/gabrielmarquezcyber/elastic-wazuh-detection-operations-workbook](https://github.com/gabrielmarquezcyber/elastic-wazuh-detection-operations-workbook)
 - Azure Cloud Security Governance: [github.com/gabrielmarquezcyber/azure-cloud-security-governance](https://github.com/gabrielmarquezcyber/azure-cloud-security-governance)
-- Empire Breacher: [github.com/gabrielmarquezcyber/empire-breacher](https://github.com/gabrielmarquezcyber/empire-breacher)
+- Elastic and Wazuh Detection Operations Workbook: [github.com/gabrielmarquezcyber/elastic-wazuh-detection-operations-workbook](https://github.com/gabrielmarquezcyber/elastic-wazuh-detection-operations-workbook)
 - SOC Analyst Splunk Operations Workbook: [github.com/gabrielmarquezcyber/soc-analyst-splunk-operations-workbook](https://github.com/gabrielmarquezcyber/soc-analyst-splunk-operations-workbook)
 - Active Directory Persistence Field Notes: [github.com/gabrielmarquezcyber/ad-persistence-defender-field-notes](https://github.com/gabrielmarquezcyber/ad-persistence-defender-field-notes)
+- Empire Breacher: [github.com/gabrielmarquezcyber/empire-breacher](https://github.com/gabrielmarquezcyber/empire-breacher)
+- Cybersecurity Writing Portfolio: [github.com/gabrielmarquezcyber/cybersecurity-writing-portfolio](https://github.com/gabrielmarquezcyber/cybersecurity-writing-portfolio)
