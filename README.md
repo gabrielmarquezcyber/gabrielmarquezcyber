@@ -31,36 +31,6 @@ Start here if reviewing quickly.
 | [Azure Cloud Security Governance](https://github.com/gabrielmarquezcyber/azure-cloud-security-governance) | Azure RBAC scope, Key Vault recovery protection, Azure Policy tag governance, Recovery Services backup policy, NIST-aligned control mapping, risk register discipline, and sanitized evidence screenshots. | Cloud Security Analyst, Information Security Analyst, Azure Security, GRC-adjacent cloud security, MSSP/Microsoft-aligned roles |
 | [Empire Breacher](https://github.com/gabrielmarquezcyber/empire-breacher) | AI/Web3 wallet-agent security research, prompt-injection testing, authority-boundary validation, PASS/REVIEW/FAIL evaluation, OWASP/MITRE ATLAS mapping, and agent-behavior safety analysis. | AI Security, AppSec, Product Security, Web3 Security, LLM/agent security, security research |
 | [Supporting Security Field Notes](#supporting-security-field-notes) | Expandable supporting artifacts including the SOC Analyst Splunk Operations Workbook and Active Directory Persistence field notes. | SOC Analyst, MDR Analyst, SIEM Analyst, Security Analyst, Incident Response, Identity Security, Threat Hunting, Security Operations |
-| [Writing and Security Analysis](#writing-and-security-analysis) | Long-form cybersecurity writing, labor-market analysis, AI security thinking, source discipline, and public security communication. | Security Analyst, GRC, AI Security, Security Strategy, Technical Communication |
-
----
-
-# Writing and Security Analysis
-
-Long-form writing focused on cybersecurity career strategy, security operations, AI security, labor-market structure, and turning technical work into clear public analysis.
-
-## Cybersecurity Writing Portfolio
-
-A dedicated writing portfolio for essays, security analysis, AI security thinking, source notes, and distribution-ready writing.
-
-### What it demonstrates
-
-- Clear written analysis of cybersecurity and labor-market problems.
-- Ability to connect technical security work to broader business, hiring, and risk context.
-- Source discipline through organized source notes.
-- Public communication that supports security analyst, GRC, AI security, and security strategy roles.
-- Separation between technical build artifacts and long-form analytical writing.
-
-### Review this writing portfolio
-
-- [Repository](https://github.com/gabrielmarquezcyber/cybersecurity-writing-portfolio)
-- [Essays index](https://github.com/gabrielmarquezcyber/cybersecurity-writing-portfolio/tree/main/essays)
-- [Sources index](https://github.com/gabrielmarquezcyber/cybersecurity-writing-portfolio/tree/main/sources)
-- [Distribution drafts](https://github.com/gabrielmarquezcyber/cybersecurity-writing-portfolio/tree/main/distribution)
-
-### Relevant roles
-
-Security Analyst, GRC Analyst, AI Security, Security Operations, Security Strategy, Technical Writer, and roles requiring clear risk communication.
 
 ---
 
@@ -295,3 +265,24 @@ SOC Analyst, MDR Analyst, Security Analyst, Incident Response, Identity Security
 - SOC Analyst Splunk Operations Workbook: [github.com/gabrielmarquezcyber/soc-analyst-splunk-operations-workbook](https://github.com/gabrielmarquezcyber/soc-analyst-splunk-operations-workbook)
 - Active Directory Persistence Field Notes: [github.com/gabrielmarquezcyber/ad-persistence-defender-field-notes](https://github.com/gabrielmarquezcyber/ad-persistence-defender-field-notes)
 - Cybersecurity Writing Portfolio: [github.com/gabrielmarquezcyber/cybersecurity-writing-portfolio](https://github.com/gabrielmarquezcyber/cybersecurity-writing-portfolio)
+---
+
+# Writing and Security Analysis
+
+A supporting writing portfolio for cybersecurity essays, labor-market analysis, AI security thinking, source notes, and distribution-ready public writing.
+
+This section is secondary to the hands-on technical artifacts above.
+
+## Cybersecurity Writing Portfolio
+
+- [Repository](https://github.com/gabrielmarquezcyber/cybersecurity-writing-portfolio)
+- [Essays index](https://github.com/gabrielmarquezcyber/cybersecurity-writing-portfolio/tree/main/essays)
+- [Sources index](https://github.com/gabrielmarquezcyber/cybersecurity-writing-portfolio/tree/main/sources)
+- [Distribution drafts](https://github.com/gabrielmarquezcyber/cybersecurity-writing-portfolio/tree/main/distribution)
+
+### What it supports
+
+- Clear cybersecurity writing and analysis.
+- Security operations and AI security communication.
+- Labor-market and career strategy analysis.
+- Source-backed public writing that complements the technical portfolio.
