@@ -26,9 +26,28 @@ Start here if reviewing quickly.
 | Project | What It Proves | Best Fit |
 |---|---|---|
 | [Elastic SIEM Detection Engineering & Vulnerability Risk Automation](https://github.com/gabrielmarquezcyber/elastic-siem-detection-vuln-prioritization) | Detection engineering, Elastic SIEM validation, analyst playbooks, alert evidence, MITRE mapping, and CVE prioritization automation. | SOC Analyst, Security Analyst, MDR Analyst, SIEM Analyst, Detection Analyst, Vulnerability Analyst |
+| [Elastic and Wazuh Detection Operations Workbook](https://github.com/gabrielmarquezcyber/elastic-wazuh-detection-operations-workbook) | Logstash ingestion, Wazuh custom rule troubleshooting, KQL/Lucene investigation patterns, Apache log attack reconstruction, sanitized evidence, and reviewer-facing SOC documentation. | SOC Analyst, MDR Analyst, SIEM Analyst, Detection Analyst, Security Analyst |
 | [Azure Cloud Security Governance](https://github.com/gabrielmarquezcyber/azure-cloud-security-governance) | Azure RBAC scope, Key Vault recovery protection, Azure Policy tag governance, Recovery Services backup policy, NIST-aligned control mapping, risk register discipline, and sanitized evidence screenshots. | Cloud Security Analyst, Information Security Analyst, Azure Security, GRC-adjacent cloud security, MSSP/Microsoft-aligned roles |
 | [Empire Breacher](https://github.com/gabrielmarquezcyber/empire-breacher) | AI/Web3 wallet-agent security research, prompt-injection testing, authority-boundary validation, PASS/REVIEW/FAIL evaluation, OWASP/MITRE ATLAS mapping, and agent-behavior safety analysis. | AI Security, AppSec, Product Security, Web3 Security, LLM/agent security, security research |
 | [Supporting Security Field Notes](#supporting-security-field-notes) | Expandable supporting artifacts including the [SOC Analyst Splunk Operations Workbook](https://github.com/gabrielmarquezcyber/soc-analyst-splunk-operations-workbook) for Splunk/SIEM workflows and [Active Directory Persistence - Defender-Focused Field Notes](https://github.com/gabrielmarquezcyber/ad-persistence-defender-field-notes) for Windows identity, persistence, and defender validation. | SOC Analyst, MDR Analyst, SIEM Analyst, Security Analyst, Incident Response, Identity Security, Threat Hunting, Security Operations |
+---
+
+# Writing and Security Analysis
+
+Long-form writing focused on cybersecurity career strategy, security operations, AI security, labor-market structure, and turning technical work into reviewer-facing proof.
+
+| Repository | What It Proves | Best Review Path |
+|---|---|---|
+| [Cybersecurity Writing Portfolio](https://github.com/gabrielmarquezcyber/cybersecurity-writing-portfolio) | Clear security writing, labor-market analysis, AI security thinking, source discipline, and public proof strategy. | README -> essays -> sources -> distribution drafts |
+
+## Operating model
+
+| Layer | Function |
+|---|---|
+| GitHub writing repo | Source of truth for essays and analysis. |
+| LinkedIn and Substack | Distribution channels. |
+| Main profile README | Recruiter-facing traffic router. |
+| Technical repos | Hands-on security proof artifacts. |
 
 ---
 
