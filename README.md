@@ -264,25 +264,18 @@ SOC Analyst, MDR Analyst, Security Analyst, Incident Response, Identity Security
 - Empire Breacher: [github.com/gabrielmarquezcyber/empire-breacher](https://github.com/gabrielmarquezcyber/empire-breacher)
 - SOC Analyst Splunk Operations Workbook: [github.com/gabrielmarquezcyber/soc-analyst-splunk-operations-workbook](https://github.com/gabrielmarquezcyber/soc-analyst-splunk-operations-workbook)
 - Active Directory Persistence Field Notes: [github.com/gabrielmarquezcyber/ad-persistence-defender-field-notes](https://github.com/gabrielmarquezcyber/ad-persistence-defender-field-notes)
-- Cybersecurity Writing Portfolio: [github.com/gabrielmarquezcyber/cybersecurity-writing-portfolio](https://github.com/gabrielmarquezcyber/cybersecurity-writing-portfolio)
 ---
 
 # Writing and Security Analysis
 
-A supporting writing portfolio for cybersecurity essays, labor-market analysis, AI security thinking, source notes, and distribution-ready public writing.
+A small supporting section for published security writing.
 
-This section is secondary to the hands-on technical artifacts above.
+Current published work:
 
-## Cybersecurity Writing Portfolio
+| Work | Focus | Links |
+|---|---|---|
+| Making Competence Inspectable | Cybersecurity hiring, labor-market structure, proof-building, and why serious public artifacts matter. | [Essay](https://github.com/gabrielmarquezcyber/cybersecurity-writing-portfolio/blob/main/essays/001-making-competence-inspectable.md) / [Sources](https://github.com/gabrielmarquezcyber/cybersecurity-writing-portfolio/blob/main/sources/001-making-competence-inspectable-sources.md) / [Spanish](https://github.com/gabrielmarquezcyber/cybersecurity-writing-portfolio/blob/main/essays/001-making-competence-inspectable-es.md) |
 
-- [Repository](https://github.com/gabrielmarquezcyber/cybersecurity-writing-portfolio)
-- [Essays index](https://github.com/gabrielmarquezcyber/cybersecurity-writing-portfolio/tree/main/essays)
-- [Sources index](https://github.com/gabrielmarquezcyber/cybersecurity-writing-portfolio/tree/main/sources)
-- [Distribution drafts](https://github.com/gabrielmarquezcyber/cybersecurity-writing-portfolio/tree/main/distribution)
+Repository:
 
-### What it supports
-
-- Clear cybersecurity writing and analysis.
-- Security operations and AI security communication.
-- Labor-market and career strategy analysis.
-- Source-backed public writing that complements the technical portfolio.
+- [Cybersecurity Writing Portfolio](https://github.com/gabrielmarquezcyber/cybersecurity-writing-portfolio)
